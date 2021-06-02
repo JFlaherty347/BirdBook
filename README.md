@@ -10,8 +10,12 @@ Although birdwatching is an extremely rewarding experience, it does have a knowl
 
 ## Solution
 
-With BirdBook, a list of birds in your area are shown, with an overview. For more information, a bird's info page can be viewed for a more detailed look at the bird's behavior, diet, and other helpful bits of information. With information like what the bird's call sounds like, where they are usually found, and their appearance, it is easier than ever before to find birds to watch!
+With BirdBook, a list of birds in your area is shown, with an overview. For more information, a bird's info page can be viewed for a more detailed look at the bird's behavior, diet, and other helpful bits of information. With information like what the bird's call sounds like, where they are usually found, and their appearance, it is easier than ever before to find birds to watch!
 
 ## Technical Approach
 
 In order to deliver the best product, we employed agile development with a focus on our most important users. Over a few short months, we managed to deliver a product that birdwatchers can use to improve their experience.
+
+## Repo Note
+
+This repo is forked from the main project to provide a GitHub pages site for the project with my own URL. The code in this repo is still the work of the same people as the main repository.
