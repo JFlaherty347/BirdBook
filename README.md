@@ -2,7 +2,7 @@
 
 BirdBook is an android app designed to aid birdwatchers, both new and experienced.
 
-<p> <img src="https://github.com/LapuaLazuli/BirdBook/blob/JFlaherty347-patch-1/readmeImages/Screenshot2.jpg" alt="app" width="200"> &emsp; <img src="https://github.com/LapuaLazuli/BirdBook/blob/JFlaherty347-patch-1/readmeImages/Screenshot1.jpg" alt="app" width="200"> </p>
+<p> <img src="https://raw.githubusercontent.com/JFlaherty347/BirdBook/master/readmeImages/Screenshot2.jpg" alt="app" width="200"> &emsp; <img src="https://raw.githubusercontent.com/JFlaherty347/BirdBook/master/readmeImages/Screenshot1.jpg" alt="app" width="200"> </p>
 
 ## Problem statement
 
